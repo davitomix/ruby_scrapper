@@ -1,0 +1,6 @@
+require 'rubocop'
+require 'rspec'
+require 'nokogiri'
+require 'selenium-webdriver'
+require 'open-uri'
+require 'csv'
